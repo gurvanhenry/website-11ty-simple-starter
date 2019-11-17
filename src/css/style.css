@@ -1,0 +1,14 @@
+:root {
+  --text-color: #535353;
+  --main-bg-color: #fafafa;
+  --main-font-family: sans-serif;
+}
+
+body {
+  margin-top: 20vh;
+  text-align: center;
+  font-size: 0.8em;
+  font-family: var(--main-font-family);
+  background-color: var(--main-bg-color);
+  color: var(--text-color);
+}

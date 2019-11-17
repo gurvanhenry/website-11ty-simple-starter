@@ -1,0 +1,11 @@
+{
+  "name": "website-11ty-simple-starter ",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
